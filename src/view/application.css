@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,700");
+.root {
+  -fx-background-color: #d0d0d0;
+  -fx-hgap: 8;
+  -fx-vgap: 8;
+  -fx-alignment: center;
+  -fx-font-family: "Open Sans", sans-serif;
+  -fx-font-weight: 700; }
+
+#titleLabel {
+  -fx-text-fill: #505050;
+  -fx-font-size: 3em; }
+
+.text-field {
+  -fx-text-fill: rgba(80, 80, 80, 0.7);
+  -fx-font-size: 1em;
+  -fx-padding: 0.75em 1.25em 0.75em 1.25em; }
+
+#btn {
+  -fx-background-color: #22a578;
+  -fx-text-fill: white;
+  -fx-font-size: 1em;
+  -fx-padding: 0.65em; }
+
+/*# sourceMappingURL=application.css.map */
